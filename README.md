@@ -1,4 +1,5 @@
-# XRayR bash <(curl -Ls  https://mirror.ghproxy.com/https://github.com/Gangnamsstyle/XrayR-release/blob/master/install.sh)
+# XRayR 
+bash <(curl -Ls  https://mirror.ghproxy.com/https://github.com/Gangnamsstyle/XrayR-release/blob/master/install.sh)
 
 A Xray backend framework that can easily support many panels.
 
